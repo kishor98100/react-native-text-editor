@@ -1,0 +1,19 @@
+{
+  "name": "react-native-text-editor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kishor98100/react-native-text-editor.git"
+  },
+  "version": "1.0.0",
+  "description": "React Native RichTextEditor",
+  "main": "index.js",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "react-native-webview-bridge-updated": "^1.0.0"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": ">=0.31.0",
+    "react-native-webview": "^7.5.1"
+  }
+}
